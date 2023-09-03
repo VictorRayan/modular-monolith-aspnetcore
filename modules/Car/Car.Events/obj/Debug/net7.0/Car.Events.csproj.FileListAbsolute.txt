@@ -1,0 +1,12 @@
+/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/bin/Debug/net7.0/Car.Events.deps.json
+/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/bin/Debug/net7.0/Car.Events.dll
+/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/bin/Debug/net7.0/Car.Events.pdb
+/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/obj/Debug/net7.0/Car.Events.csproj.AssemblyReference.cache
+/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/obj/Debug/net7.0/Car.Events.GeneratedMSBuildEditorConfig.editorconfig
+/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/obj/Debug/net7.0/Car.Events.AssemblyInfoInputs.cache
+/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/obj/Debug/net7.0/Car.Events.AssemblyInfo.cs
+/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/obj/Debug/net7.0/Car.Events.csproj.CoreCompileInputs.cache
+/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/obj/Debug/net7.0/Car.Events.dll
+/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/obj/Debug/net7.0/refint/Car.Events.dll
+/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/obj/Debug/net7.0/Car.Events.pdb
+/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/obj/Debug/net7.0/ref/Car.Events.dll
