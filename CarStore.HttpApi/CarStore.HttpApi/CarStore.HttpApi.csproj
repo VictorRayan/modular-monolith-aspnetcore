@@ -15,4 +15,7 @@
       <ProjectReference Include="..\..\modules\Car\Car.Events\Car.Events.csproj" />
     </ItemGroup>
 
+
+
+
 </Project>

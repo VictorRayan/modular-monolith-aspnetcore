@@ -1,5 +1,5 @@
+using CarStore.HttpApi.EventHandlers.Publishers;
 using Microsoft.AspNetCore.Mvc;
-using Car.Events;
 
 namespace CarStore.HttpApi.Controllers;
 
@@ -10,7 +10,11 @@ public class Car : ControllerBase
     [HttpGet("{id}")]
     public String GetCarById(int id)
     {
-        Class1 car = new Class1(id);
-        return car.carName;
+
+        CarEventPublisher carEventPublisher = new CarEventPublisher();
+        String carName = carEventPublisher.GetCarById(id);
+
+        return carName;
+
     }
 }
