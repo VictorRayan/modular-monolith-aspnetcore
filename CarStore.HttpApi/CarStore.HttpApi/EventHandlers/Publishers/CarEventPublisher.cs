@@ -8,7 +8,6 @@ public class CarEventPublisher
     public event EventHandler<CarCustomEventArgs> carEventHandler;
     public void RaiseEvent(int id)
     {
-        Console.WriteLine("Event is about to be raised.");
         if (carEventHandler != null)
         {
 
