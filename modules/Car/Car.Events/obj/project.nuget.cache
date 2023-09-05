@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hzXEQUqF3VJxgE5O6aKklU9B2/55XnAdivNpfqvkhjX2N9YsPwrw62PVaXFB3KgvPb1DEpLI6WcHW5xE4uj3yw==",
+  "dgSpecHash": "OxX9WUEKmY5APiRjYaeiWGQ/Ti1XYlAQ2p9/86d4UJawFkQ1BoNxWEEUjcuOTdHe26SpyLEH50xnUFCp9nVwhA==",
   "success": true,
-  "projectFilePath": "/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/Car.Events.csproj",
+  "projectFilePath": "/home/rayan/Desktop/projects/modular-monolith/modules/Car/Car.Events/Car.Events.csproj",
   "expectedPackageFiles": [
     "/home/rayan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
   ],

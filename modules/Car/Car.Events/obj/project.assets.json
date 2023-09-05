@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/Car.Events.csproj",
+      "projectUniqueName": "/home/rayan/Desktop/projects/modular-monolith/modules/Car/Car.Events/Car.Events.csproj",
       "projectName": "Car.Events",
-      "projectPath": "/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/Car.Events.csproj",
+      "projectPath": "/home/rayan/Desktop/projects/modular-monolith/modules/Car/Car.Events/Car.Events.csproj",
       "packagesPath": "/home/rayan/.nuget/packages/",
-      "outputPath": "/home/rayan/Desktop/projects/modular-monolith-aspnetcore/modules/Car/Car.Events/obj/",
+      "outputPath": "/home/rayan/Desktop/projects/modular-monolith/modules/Car/Car.Events/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/rayan/.nuget/NuGet/NuGet.Config"
