@@ -12,9 +12,16 @@ public class Car : ControllerBase
     {
 
         CarEventPublisher carEventPublisher = new CarEventPublisher();
-        String carName = carEventPublisher.GetCarById(id);
+        String carBrand = carEventPublisher.GetCarById(id);
 
-        return carName;
+        return carBrand;
 
+    }
+
+    [HttpGet("{brand}")]
+    public String GetCarsListByBrand(String brand)
+    {
+        
+        return brand;
     }
 }

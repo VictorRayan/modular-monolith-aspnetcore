@@ -23,19 +23,8 @@ public class CarEventPublisher
         CarEvent carEvent = new CarEvent();
         carEventPublisher.carEventHandler += carEvent.OnEventRaised;
         carEventPublisher.RaiseEvent(id);
-
-        String carName = null;
-        switch (carEvent.carCustomEventArgs.Id)
-        {
-            case 1:
-                carName = "Ferrari";
-                break;
-            case 2:
-                carName = "Bugatti";
-                break;
-        }
-
-        return carName;
+        
+        return carEvent.carCustomEventArgs.carBrand;
 
     }
     
