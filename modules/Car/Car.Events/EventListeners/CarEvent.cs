@@ -29,6 +29,9 @@ public class CarEvent
             case 2:
                 carBrand = "Bugatti";
                 break;
+            default:
+                carBrand = null;
+                break;
         }
         this.carCustomEventArgs.carBrand = carBrand;
     }

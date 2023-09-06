@@ -18,7 +18,7 @@ public class Car : ControllerBase
 
     }
 
-    [HttpGet("{brand}")]
+    [HttpGet("List/{brand}")]
     public String GetCarsListByBrand(String brand)
     {
         
